@@ -1,0 +1,5 @@
+garbage.txt
+*.pdf
+*.gz
+*.txt
+.ipynb_checkpoints
